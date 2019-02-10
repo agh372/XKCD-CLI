@@ -2,6 +2,10 @@
 
 This is a python script which parses 9gag.com using BeautifulSoup and display it in terminal window in ASCII format.
 
+## Screenshot
+
+![9gag](https://user-images.githubusercontent.com/37753430/52538337-1927ca00-2d37-11e9-8306-e8d76831af8d.png)
+
 **Instructions**
 
 1)Clone the project:
