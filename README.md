@@ -1,6 +1,6 @@
 # 9gag-CLI
 
-This is a python script which parses 9gag.com using BeautifulSoup and display it in terminal window.
+This is a python script which parses 9gag.com using BeautifulSoup and display it in terminal window in ASCII format.
 
 **Instructions**
 
@@ -20,11 +20,9 @@ This is a python script which parses 9gag.com using BeautifulSoup and display it
   
 **Featured to be implemented**
 
-1)Image support
+1)GIF support
 
-2)GIF support
-
-3)Top Comments
+2)Top Comments
 
     
  
