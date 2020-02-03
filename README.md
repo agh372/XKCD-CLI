@@ -1,4 +1,4 @@
-# 9gag-CLI
+# XKCD-CLI
 
 This is a python script which parses xkcd.com using BeautifulSoup and displays the posts (images) in terminal window in ANSI format.
 
