@@ -1,17 +1,17 @@
 # 9gag-CLI
 
-This is a python script which parses 9gag.com using BeautifulSoup and displays the posts (images) in terminal window in ASCII format.
+This is a python script which parses xkcd.com using BeautifulSoup and displays the posts (images) in terminal window in ANSI format.
 
 ## Screenshot
 
-![9gag](https://user-images.githubusercontent.com/37753430/52538337-1927ca00-2d37-11e9-8306-e8d76831af8d.png)
+![Screenshot (951)](https://user-images.githubusercontent.com/37753430/73649276-0f346080-4645-11ea-9fc6-f8b64225e2f3.png)
 
 **Instructions**
 
 1)Clone the project:
     
-         git clone https://github.com/MrRobot9/9gag-CLI.git
-         cd 9gag-CLI
+         git clone https://github.com/MrRobot9/xkcd-CLI.git
+         cd xkcd-CLI
          
 2)Install the project's development and runtime requirements:
 
@@ -22,11 +22,7 @@ This is a python script which parses 9gag.com using BeautifulSoup and displays t
   		python main.py
         
   
-**Featured to be implemented**
 
-1)GIF support
-
-2)Top Comments
 
     
  
