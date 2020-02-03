@@ -150,7 +150,7 @@ def floydsteinberg_dither_to_web_palette(img):
     # Admittedly converting back and forth requires more memory than just dithering directly
     # in RGBA but that's how the library works and it isn't worth writing it ourselves
     # or looking for an alternative given current perf needs.
-
+    print("FLOYYYYYYYYYYYYYD")
     if img.mode != 'RGB': 
         img = img.convert('RGB')     
     img = img.convert(mode="P", matrix=None, dither=Image.FLOYDSTEINBERG, palette=Image.WEB, colors=256)
